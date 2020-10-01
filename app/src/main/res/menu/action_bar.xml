@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/adicionar"
+    android:icon="@android:drawable/star_big_on"
+    app:showAsAction="always"
+    android:title="Adicionar"/>
+
+<item android:id="@+id/editar"
+    android:icon="@android:drawable/btn_dialog"
+    app:showAsAction="never"
+    android:title="Editar"/>
+
+</menu>
